@@ -1,0 +1,10 @@
+
+<form action="" method="POST">
+    {% for team in teams %}
+    <input type="radio" value="{{ team.pk }}" name="team" checked="checked">
+    {{ team.name }}<br>
+    {% endfor %}
+    
+    <input type="submit" value="Vote">
+    {% csrf_token %}
+</form>

@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "votes.team", "fields": {"votes": 2, "name": "Professor X, Wolverine, Cyclops"}}, {"pk": 2, "model": "votes.team", "fields": {"votes": 1, "name": "Garry Kasparov, Bobby Fischer, Magnus Carlsen"}}]
