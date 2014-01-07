@@ -10,8 +10,10 @@ Next,
 
     python manage.py runserver
 
-Then, browse to [http://localhost:8000/admin/] and log in.
-You can create/modify teams there.
+Then, browse to
+[http://localhost:8000/admin/](http://localhost:8000/admin/)
+and log in. You can create/modify teams there.
 
-Vote at [http://localhost:8000/], and see the results at
-[http://localhost:8000/results/].
+Vote at [http://localhost:8000/](http://localhost:8000/),
+and see the results at
+[http://localhost:8000/results/](http://localhost:8000/results/).
